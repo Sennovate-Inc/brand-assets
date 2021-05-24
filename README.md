@@ -1,6 +1,16 @@
 ## Brand Assets of Sennovate
 
-This repository contains Brand assets for `Sennovate`
+This repository contains all Brand assets for `Sennovate`
+
+## BrandBook
+
+[Brand Book](Sennovate_BrandBook.pdf) of Sennovate with all the Identity guidelines.
+
+## Logos
+
+- Use the [blue logos](logos/Sennovate_tag_blue.png) with light backgrounds the [white logos](logos/Sennovate_tag_white.png) with darker backgrounds.
+- The [shield logo](logos/sennovate_shield_logo.png) is also part of the Sennovate identity.
+- For more details check out our [Brand Book](Sennovate_BrandBook.pdf).
 
 ## Color Palette
 
@@ -18,9 +28,9 @@ The brand colors for the mark consist of carefully selected colors, designed to 
 The typeface fits perfectly with almost any font which is particularly useful in today's diverse content sphere.
 
 - Primary Typeface
-    - <p style="font-family: 'gilroybold';">Gilroy Bold</p>
+    - `Gilroy Bold`
 - Secondary Typeface
-    - <p style="font-family: 'Mulish', sans-serif;">Mulish Regular</p>
+    - `Mulish Regular`
 
 ## Social Handles
 
