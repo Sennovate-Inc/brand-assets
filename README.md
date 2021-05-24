@@ -8,10 +8,17 @@ The brand colors for the mark consist of carefully selected colors, designed to 
 
 |Primary Color|Secondary Color|
 |-------------|---------------|
+<<<<<<< HEAD
 |<p style="color:#071969">#071969</p>|<p style="color:#1AB362">#1AB362</p>|
 |<p style="color:#FECF08">#FECF08</p>|<p style="color:#EE2C44">#EE2C44</p>|
 |<p style="color:#F5F5F5">#F5F5F5</p>|<p style="color:#080B1C">#080B1C</p>|
 |<p style="color:#FFFFFF">FFFFFF</p>|
+=======
+| <p style="color:#071969">#071969</p> | <p style="color:#1AB362">#1AB362</p> |
+| <p style="color:#FECF08">#FECF08</p> | <p style="color:#EE2C44">#EE2C44</p> |
+| <p style="color:#F5F5F5">#F5F5F5</p> | <p style="color:#080B1C">#080B1C</p> |
+| <p style="color:#FFFFFF">#FFFFFF</p> |
+>>>>>>> 244a382412ac88caec420586bf4fa6428613a21d
 
 ## Typography
 
