@@ -9,6 +9,7 @@ This repository contains all Brand assets for `Sennovate`
 ## Logos
 
 - Use the [blue logos](logos/Sennovate_tag_blue.png) with light backgrounds the [white logos](logos/Sennovate_tag_white.png) with darker backgrounds.
+- Prioritise the use of blue logos at all times possible and use white logo only on dark backgrounds to unmatch the color of background!
 - The [shield logo](logos/sennovate_shield_logo.png) is also part of the Sennovate identity.
 - For more details check out our [Brand Book](Sennovate_BrandBook.pdf).
 
